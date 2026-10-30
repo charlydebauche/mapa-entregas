@@ -1,0 +1,61 @@
+id,nombre,categoria,latitud,longitud,valor,fecha,descripcion
+1,Pedido #1001,Entregado,-34.60183,-58.42289,140,2026-10-27,Almagro
+2,Pedido #1002,Entregado,-34.5854,-58.42619,100,2026-10-19,Palermo
+3,Pedido #1003,Entregado,-34.64002,-58.36798,15,2026-10-22,La Boca
+4,Pedido #1004,Entregado,-34.62009,-58.3796,15,2026-10-23,San Telmo
+5,Pedido #1005,En camino,-34.63294,-58.40775,22,2026-10-28,Parque Patricios
+6,Pedido #1006,Entregado,-34.6191,-58.37306,28,2026-10-26,San Telmo
+7,Pedido #1007,Entregado,-34.6312,-58.4577,56,2026-10-24,Flores
+8,Pedido #1008,Entregado,-34.66139,-58.49536,124,2026-10-24,Mataderos
+9,Pedido #1009,Entregado,-34.58507,-58.37641,56,2026-10-24,Retiro
+10,Pedido #1010,Pendiente,-34.64205,-58.51766,119,2026-10-26,Liniers
+11,Pedido #1011,En camino,-34.62003,-58.37737,15,2026-10-29,Monserrat
+12,Pedido #1012,Entregado,-34.63564,-58.46369,31,2026-10-22,Flores
+13,Pedido #1013,Entregado,-34.62493,-58.44654,94,2026-10-23,Caballito
+14,Pedido #1014,Pendiente,-34.58689,-58.36845,67,2026-10-29,Retiro
+15,Pedido #1015,En camino,-34.56568,-58.49328,90,2026-10-21,Villa Urquiza
+16,Pedido #1016,Entregado,-34.54749,-58.46938,91,2026-10-21,Núñez
+17,Pedido #1017,Entregado,-34.6228,-58.41421,41,2026-10-25,Boedo
+18,Pedido #1018,Pendiente,-34.57934,-58.48458,100,2026-10-26,Villa Urquiza
+19,Pedido #1019,Entregado,-34.59424,-58.39519,61,2026-10-20,Recoleta
+20,Pedido #1020,Entregado,-34.57617,-58.43133,72,2026-10-26,Palermo
+21,Pedido #1021,Entregado,-34.60915,-58.38121,54,2026-10-24,San Nicolás
+22,Pedido #1022,Pendiente,-34.54434,-58.45954,80,2026-10-27,Núñez
+23,Pedido #1023,En camino,-34.63365,-58.46222,75,2026-10-23,Flores
+24,Pedido #1024,Entregado,-34.63213,-58.42299,46,2026-10-27,Boedo
+25,Pedido #1025,En camino,-34.60682,-58.41896,53,2026-10-30,Almagro
+26,Pedido #1026,En camino,-34.5668,-58.45613,53,2026-10-26,Belgrano
+27,Pedido #1027,Pendiente,-34.5489,-58.46111,68,2026-10-24,Núñez
+28,Pedido #1028,Entregado,-34.61747,-58.38592,55,2026-10-28,Monserrat
+29,Pedido #1029,En camino,-34.64533,-58.37925,27,2026-10-22,Barracas
+30,Pedido #1030,En camino,-34.66978,-58.47419,63,2026-10-30,Villa Lugano
+31,Pedido #1031,Entregado,-34.57359,-58.48262,86,2026-10-26,Villa Urquiza
+32,Pedido #1032,Entregado,-34.59021,-58.37327,53,2026-10-27,Retiro
+33,Pedido #1033,Entregado,-34.59966,-58.36961,45,2026-10-22,Retiro
+34,Pedido #1034,Entregado,-34.58555,-58.43017,53,2026-10-27,Palermo
+35,Pedido #1035,Entregado,-34.59465,-58.5209,89,2026-10-27,Villa Devoto
+36,Pedido #1036,En camino,-34.59149,-58.37458,81,2026-10-28,Retiro
+37,Pedido #1037,Entregado,-34.64058,-58.3883,71,2026-10-27,Barracas
+38,Pedido #1038,Entregado,-34.62911,-58.41188,118,2026-10-22,Boedo
+39,Pedido #1039,Entregado,-34.55132,-58.47024,80,2026-10-28,Núñez
+40,Pedido #1040,Entregado,-34.6283,-58.42241,45,2026-10-26,Boedo
+41,Pedido #1041,Pendiente,-34.62294,-58.41341,62,2026-10-22,Boedo
+42,Pedido #1042,En camino,-34.66381,-58.51081,63,2026-10-25,Mataderos
+43,Pedido #1043,Entregado,-34.6176,-58.38455,52,2026-10-21,Monserrat
+44,Pedido #1044,Entregado,-34.66249,-58.49585,91,2026-10-29,Mataderos
+45,Pedido #1045,Entregado,-34.56742,-58.45723,62,2026-10-24,Belgrano
+46,Pedido #1046,Entregado,-34.64759,-58.38274,25,2026-10-28,Barracas
+47,Pedido #1047,Entregado,-34.6188,-58.44984,78,2026-10-23,Caballito
+48,Pedido #1048,En camino,-34.61451,-58.37873,36,2026-10-29,San Telmo
+49,Pedido #1049,Entregado,-34.5455,-58.46234,68,2026-10-30,Núñez
+50,Pedido #1050,Entregado,-34.58919,-58.4047,50,2026-10-23,Recoleta
+51,Pedido #1051,Entregado,-34.61127,-58.386,104,2026-10-23,Monserrat
+52,Pedido #1052,Pendiente,-34.64793,-58.52252,94,2026-10-23,Liniers
+53,Pedido #1053,Entregado,-34.6261,-58.36522,26,2026-10-21,San Telmo
+54,Pedido #1054,Entregado,-34.54645,-58.47167,74,2026-10-27,Núñez
+55,Pedido #1055,En camino,-34.63035,-58.40174,36,2026-10-27,Parque Patricios
+56,Pedido #1056,Entregado,-34.56548,-58.49046,98,2026-10-30,Villa Urquiza
+57,Pedido #1057,Entregado,-34.59352,-58.37774,100,2026-10-19,Retiro
+58,Pedido #1058,Entregado,-34.61036,-58.38314,42,2026-10-30,Monserrat
+59,Pedido #1059,Pendiente,-34.62628,-58.44766,55,2026-10-27,Caballito
+60,Pedido #1060,Entregado,-34.61309,-58.41262,45,2026-10-24,Almagro
