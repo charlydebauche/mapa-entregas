@@ -99,7 +99,7 @@ export default function App() {
   // ---- Etapa 5: capas de deck.gl ----
   const mapaBase = new TileLayer({
     id: 'mapa-base',
-    data: 'https://basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png',
+    data: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
     minZoom: 0,
     maxZoom: 19,
     tileSize: 256,
@@ -281,7 +281,7 @@ export default function App() {
           )}
         </div>
 
-        <div className="atribucion">© OpenStreetMap contributors © CARTO</div>
+        <div className="atribucion">© OpenStreetMap contributors</div>
       </main>
     </div>
   )
